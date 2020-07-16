@@ -1,0 +1,28 @@
+{
+  "name": "fitness-tracker",
+  "version": "1.0.0",
+  "description": "For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.",
+  "main": "models.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansbrougha/fitness-tracker.git"
+  },
+  "author": "Andrew Hansbrough",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hansbrougha/fitness-tracker/issues"
+  },
+  "homepage": "https://github.com/hansbrougha/fitness-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.24",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7",
+    "router": "^1.3.5"
+  },
+  "devDependencies": {}
+}

@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/hansbrougha/fitness-tracker#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "logger": "0.0.1",
     "mongoose": "^5.9.25",
     "morgan": "^1.10.0",
